@@ -1,0 +1,2 @@
+Containers are statefull compoenents. Its components you create with the class keyword.
+Components are stateless components or functional components.
